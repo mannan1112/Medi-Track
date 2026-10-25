@@ -1,0 +1,7 @@
+{
+  "name": "meditrack-vanilla-hospital-management",
+  "version": "2.0.0",
+  "private": true,
+  "description": "MediTrack hospital management app built with plain HTML, CSS and JavaScript",
+  "scripts": { "start": "python -m http.server 8000" }
+}
